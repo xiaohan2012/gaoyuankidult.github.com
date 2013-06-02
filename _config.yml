@@ -9,12 +9,12 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : fadfd
+title : ALex Gao's Tech Blog
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Alex Gao
+  email : gaoyuankidult@gmail.com
+  github : gaoyuankidult
   twitter : username
   feedburner : feedname
 
