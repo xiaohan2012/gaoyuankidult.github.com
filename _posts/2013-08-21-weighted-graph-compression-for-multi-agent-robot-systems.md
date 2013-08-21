@@ -6,7 +6,7 @@ category:
 tags: []
 ---
 {% include JB/setup %}
-	Hannu Toivonen and his partners introduced their researches in the paper
+Hannu Toivonen and his partners introduced their researches in the paper
 “Compression of Weighted Graphs”. Motivated by graph problems which contain
 large amount of vertices, the authors formalize problems of weighted graph 
 mathematically and then propose several algorithms to deal with graph compression. 
@@ -17,7 +17,7 @@ that these algorithms have a possibility of being applied in multi-agent systems
 robotics, because these algorithms can enable multi-agent systems to be power-saving, 
 system-wide efficient and applicable on today’s robot devices.
 
-	This feature of reducing the vertices of a weighted graph contributes to 
+This feature of reducing the vertices of a weighted graph contributes to 
 reducing computational power under certain robot path-planning environments, for 
 example, when robots want to mainly use its power to process a large image.
 Normally, the path-planning algorithms require building a rapidly exploring random 
@@ -31,7 +31,7 @@ ability can enable the searching process in path-planning algorithms to focus on
 finding a valid path first rather than trying to make any precise prediction at the 
 beginning.
 
-	The power of the compression algorithms of weighted graph does not only 
+The power of the compression algorithms of weighted graph does not only 
 show its power on reducing computational power under certain situations, it also 
 provides a way of system-wide efficient planning. In a multi-agent robot system, each 
 robot can be considered as a node in a graph. In many cases, these robots may defend, 
@@ -40,7 +40,7 @@ however, pay more attention on system-wide planning. For example the soccer robo
 which cooperate to defend the soccer goal can be considered as one defending object
 while making a possible overall strategy.
 
-	In addition to power-saving feature and system-wide efficiency, the 
+In addition to power-saving feature and system-wide efficiency, the 
 applicability provided by the weighted graph compression algorithms is another 
 advantage. The optimization of path-planning algorithms in robot system has always 
 been a challenging problem. Although there are several ways of optimizing the 
@@ -54,7 +54,7 @@ By cutting or combining vertices, the compression algorithms can dramatically
 increase the flexibility of robots and also generate convenience to the whole system
 structure. 
 
-	Power-saving feature, system-wide efficiency and applicability are the three 
+Power-saving feature, system-wide efficiency and applicability are the three 
 things that weighed graph compression algorithms could contribute to modern multiagent robot system. By carefully examining these three merits, applying the weighted 
 graph compression algorithms in multi-agent systems is worth trying. It can be a great 
 research direction for the further study.
