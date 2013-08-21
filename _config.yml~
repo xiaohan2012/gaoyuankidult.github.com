@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : ALex Gao's Tech Blog
+title : Alex Gao's Tech Blog
 tagline: Site Tagline
 author :
   name : Alex Gao
   email : gaoyuankidult@gmail.com
   github : gaoyuankidult
-  twitter : username
-  feedburner : feedname
+#  twitter : username
+ # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
