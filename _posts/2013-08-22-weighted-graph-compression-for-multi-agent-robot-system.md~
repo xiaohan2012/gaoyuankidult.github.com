@@ -2,7 +2,7 @@
 layout: post
 title: "Weighted Graph Compression for Multi agent Robot System"
 description: ""
-category: 
+category: Robotics
 tags: []
 ---
 {% include JB/setup %}
