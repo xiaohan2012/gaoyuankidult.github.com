@@ -6,7 +6,7 @@ category:
 tags: [Math]
 ---
 {% include JB/setup %}
-***This simple blog is intended to show what kind of $\LaTeX$ code you need to write to jekyll post.***
+***This simple blog is intended to show what kind of $\LaTeX$ code you need to write to jekyll post.*** 
 
 ## Here is the code example that I wrote in the .md file.
 
@@ -31,4 +31,4 @@ inv(\begin{bmatrix} 5 &amp; 8 &amp; 1 \\ &amp; 9 &amp; 2 \\ 4 &amp; 6 &amp; 3 \e
   });
 &lt/script&gt
 </code>
-</pre>
+</pre>
