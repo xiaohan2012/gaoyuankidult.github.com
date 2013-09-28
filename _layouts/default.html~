@@ -2,6 +2,8 @@
 theme :
   name : hooligan
 ---
+{% include latex.html %}
+{% include latex.css %}
 {% include JB/setup %}
 {% include themes/hooligan/default.html %}
 
