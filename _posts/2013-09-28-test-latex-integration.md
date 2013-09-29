@@ -19,7 +19,7 @@ $$ inv(\begin{bmatrix} 5 &amp; 8 &amp; 1 \\ &amp; 9 &amp; 2 \\ 4 &amp; 6 &amp; 3
 ## Here is the result.
 <p>$$ inv(\begin{bmatrix} 5 &amp; 8 &amp; 1 \\ &amp; 9 &amp; 2 \\ 4 &amp; 6 &amp; 3 \end{bmatrix})=inv(\left\{ 5,8,1,9,2,4,6,3\right\} )\\ inv(\begin{bmatrix} 5 &amp; 8 &amp; 1 \\ 4 &amp; 9 &amp; 2 \\ &amp; 6 &amp; 3 \end{bmatrix})=inv(\left\{ 5,8,1,4,9,2,6,3\right\} ) $$</p>
 
-## If your problem is that a single $ does not work. Probably you need to include following code into your to-be-included js file.
+## If your problem is that a single $ does not work,probably you need to include following code into your to-be-included js file.
 <pre>
 <code>
 &lt;script type="text/x-mathjax-config"&gt;
